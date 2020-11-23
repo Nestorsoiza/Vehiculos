@@ -1,6 +1,7 @@
 package vehiculos;
 
 public abstract class VehiculosConRuedas extends Vehiculo {
+	
 	public abstract int getNumeroDeRuedas();
 	
 	public VehiculosConRuedas() {
