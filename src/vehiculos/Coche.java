@@ -10,7 +10,7 @@ public class Coche extends Vehiculo {
 	}
 	
 	public Coche() {
-		this("Blanco");
+		this("Blanco y rojo");
 //		numeroDeRuedas = 4;
 	}
 
